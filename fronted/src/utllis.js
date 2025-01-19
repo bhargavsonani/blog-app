@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://blog-app-rd7b.onrender.com"
+export const BACKEND_URL = "https://blogapp-tjn9.onrender.com"
